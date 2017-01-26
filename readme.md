@@ -1,7 +1,7 @@
 ### Start app
 * Before start, make sure you already installed node, npm, gulp.
-* Run ```npm install'''
-* Run ```gulp install```
+* Run ```npm install```
+* Run ```gulp build```
 * Open terminal, go the the app root, run gulp
 * Visit localhost.com:8081
 
@@ -63,3 +63,6 @@ npm install webpack --save-dev
 
 On your terminal:
     webpack app/src/common/navbar.js app/dist/js/bundle.js
+
+## Install jspm
+jspm init
